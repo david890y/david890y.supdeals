@@ -3,11 +3,15 @@
 <body>
 <head>
     <title>Deals</title>
+    <link rel="stylesheet" href="page.css">
     <meta charset="utf-8">
 </head>
 <body>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=supdeals-20&marketplace=amazon&region=US&placement=B0863D4XJW&asins=B0863D4XJW&linkId=87435193ce580de2722426873f015355&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-</iframe>
+<!--<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=supdeals-20&marketplace=amazon&region=US&placement=B0863D4XJW&asins=B0863D4XJW&linkId=87435193ce580de2722426873f015355&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">-->
+<!--</iframe>-->
+<div class="block">
+    <a href="https://www.amazon.com/dp/B0863D4XJW/ref=as_sl_pc_tf_til?tag=supdeals-20&linkCode=w00&linkId=87435193ce580de2722426873f015355&creativeASIN=B0863D4XJW"><button>Amazon macbook air US</button></a>
+</div>
 <iframe style="width:120px;height:240px; margin-left: 8px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-na.amazon-adsystem.com/e/cm?ref=tf_til&t=supdeals0e-20&m=amazon&o=15&p=8&l=as1&IS1=1&asins=B0821R7CLF&linkId=1a886d5f2c23d166bfecc63f0c57b893&bc1=ffffff&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
 </iframe>
 
