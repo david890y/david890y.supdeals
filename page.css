@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+.block {
+    border: 3px solid #FF0000;
+    height: 250px;
+    width: 180px;
+    background-color: #ffed7c;
+}
+
+.block button {
+    height: 50px;
+    width: 60px;
+    background-color: #5291ff;
+    border: none;
+    border-radius: 200px;
+    margin-left: 48px;
+}
+.block button:hover {
+    border-radius: 200px;
+    background-color: #64a8ff;
+}
+
+.block p {
+    /*height: 50px;*/
+    /*width: 60px;*/
+    border: none;
+    margin-left: 8px;
+}
+
+.block img {
+    margin-top: 10px;
+    margin-left: 5px;
+}
