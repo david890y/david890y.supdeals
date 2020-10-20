@@ -5,6 +5,9 @@
     height: 250px;
     width: 180px;
     background-color: #ffed7c;
+    float: left;
+    margin-left: 8px;
+    margin-top: 5px;
 }
 
 .block button {
