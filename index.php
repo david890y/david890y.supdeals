@@ -1,6 +1,6 @@
 <!doctype html>
 <html>
-<body>
+
 <head>
     <title>Deals</title>
     <link rel="stylesheet" href="page.css">
